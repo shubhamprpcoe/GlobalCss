@@ -28,3 +28,4 @@ src
     ├── lg.css
     └── xl.css
 
+Also import Global.css file in app.css or index.css
